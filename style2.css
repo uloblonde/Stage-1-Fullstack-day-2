@@ -8,8 +8,8 @@ body{
     background-color: rgb(191, 206, 219);
 }
 .kontener{
-    padding-left: 10rem;
-    padding-right: 10rem;
+    padding-left:5rem;
+    padding-right:5rem;
 }
 #kontenerbo{
     background-color: white;
@@ -44,6 +44,7 @@ body{
     padding: 10px 20px;
     background-color: black;
     border-radius: 25px;
+    margin-left: 4rem;
 }
 .contact-link a{
     color: white;
@@ -52,10 +53,11 @@ body{
 
 .landingpage{
     margin: auto;
-    width: 70%;
+    width: 90%;
+    height: 400px;
     padding: 30px;
     border-radius: 10px;
-    margin-top: 5rem;
+    margin-top: 2rem;
     background-color: white;
     display: flex;
     justify-content: space-between;
@@ -63,10 +65,10 @@ body{
 }
 .about-me{
     padding: 20px;
-    width: 50%;
+    width: 60%;
 }
 .about-me h1{
-    font-size: 35pt;
+    font-size: 25pt;
 }
 .about-me p{
     text-align: justify;
@@ -86,11 +88,13 @@ body{
 .imager{
     box-shadow: 0 0 5px;
     border-radius: 10px 10px 0 0;
-    width: 400px;
+    width: 250px;
+    height: 400px;
     text-align: center;
 }
 .imager img{
-    width: 400px;
+    width: 250px;
+    height: 300px;
     border-radius: 10px 10px 0 0 ;
 }
 .imager h5{
