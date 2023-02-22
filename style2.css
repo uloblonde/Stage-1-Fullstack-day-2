@@ -62,6 +62,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    box-shadow: 5px 2px 15px;
 }
 .about-me{
     padding: 20px;
